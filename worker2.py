@@ -75,3 +75,4 @@ for table in tables:
     ws.append([number, name, item, category,subcategory, description,specification])
     number +=1
     wb.save(excel_file_path)
+    

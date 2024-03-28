@@ -79,3 +79,5 @@ for th_tag in th_tags:
             ws.append([number, name, item, category, subcategory, description, specifications])
             number +=1
             wb.save(excel_file_path)
+
+            
